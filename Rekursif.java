@@ -10,7 +10,7 @@ public class Rekursif {
             System.out.println("Faktorial 1 disimpan");
             System.out.println("Recursion step dijalankan");
             System.out.println("Base case faktorial 1");
-            return;
+            return; 
         }
 
         System.out.println("Faktorial " + n + " disimpan");
